@@ -109,4 +109,4 @@ TelecomX_ETL_Challenge/
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
-¡Disfruta y aprende! 🎉
+¡Disfruta y aprende! 🎉🦾
